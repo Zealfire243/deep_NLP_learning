@@ -8,6 +8,7 @@ __pycache__/
 
 # Large files
 News_Category_Dataset_v2.json
+glove.6B.50d.txt
 # Distribution / packaging
 .Python
 build/
